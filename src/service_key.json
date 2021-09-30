@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "all-is-well-pharmacy-3dd14",
+  "private_key_id": "63e3efe4726223ae5679d597089fd7d9deb95d0f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCMItuSsZpjdjo6\nV1RpRjn/V7Cd9oO3ZIJt8UrvbT9i1PLGZf04OR2ubGQdaSPEAWluiKkztKikueeo\nX4Kf/Z/AsfDNM1nl1/d+kJmcOxGd9qsEvIFGGqPnWuoLhYPlWK3d9lQzciZ5szQL\nP4i9szWoVAt45aJQAf3JSkVhsKm3X4G+S9jpv5P7JUQWOHM5pk3GUTO/CPOirDi+\npYRvwEZpi52EuVDzQSq/v9e4G70oQepKkurlOaBdimAqKxN4vs6WxYgbgjlaTS6n\nNEnQT7bFH1noyemTRCS8wW5Dg23vz9Lbk+v1tDrRRr55LFuLpSnPH8M36ns71ter\n4o4Uz+e1AgMBAAECggEAAuLCi0mMK0asvx/7wsQ5tFv/Ai29+3mUJFqe8gHEV6Ru\nJcRFZpI/MyTpGzWbpoZnQFRg9Eng3C2Li0srjTW47mFWWwoW7JWvM3nGVAeKXr/3\njcbU/FeBmbrPTYfvwKS8GzFJUsWObHH9MnXEkDAqfMooR1J77nJat88HUTzvrcaU\n/9sMIzFO88GTuQQHXLD8fUr1PTtlH4c4TfDe0Y9ZdxyIl2TTVTqHB67AomGp8d3H\n4uXa1gUu66f+kuDRRm9lCvg15uoCzfQerVbfkbucmd1b6loSrK0uKbrBUEPbXVl5\nEFnVeZLFg1rF3Uf3cYbc8KsOGNXbgSDBdGlTm9W24QKBgQDAgh+F2UIWK0JgmYik\ng1Zl6bi+eo6wr/HXBdIrZmK67N5ormc8AB43Bnhn4+tOI96x6Ss5NInbrdvPpv6u\n2QQt/YizKvLSSOj2rQA8vIXlGqJb3wpL/SxAsfHueSM4FCMDhYA/zXgPs6JC5mg5\nPMC06PtYJasI0rnsiJ2J1YAvYQKBgQC6WtioULnI6pRQdgwhN2RfoOKm1bzKXlOq\na8t5VBIXc+NO3q7DxMzQ8HjemN7yt95sFYQCFBRcl/ysIt0zZjyxwm5RPac+/LrV\nfVDSbX4J2YnakuUvRFVpbQmBBQlC3CoNWasv9evBf7BL84oH8VmAIdDfn7NcaNei\nkO9eWaX81QKBgQCRTeZzRjCewRpCBcFgw42kMQz0IVewv60gKtGfVpGxG/coNnPP\nkxs7V1PsvtkuSt7dlOy+KgzgVtNyYk8cNMv11semzQUpekT1ZFGohnfeHQNtquV/\nw+HyFx5QbPkLbA+dqdfK0NENsP4J1xXWFigypSSKPSxi5YPWqKuYjSFLIQKBgCmY\n/8XKhz4PBt5TC3AaskAaZJ2DFmpB1gEzoK7LkmJDzxia4n32nxWAqCpgC1w4qOCN\niPMB0m28y30NJz1C9Adl9EQUNBH+TiI7n9/o6vp94aS1p4z+fuZSnY18N04CYSyr\nuGezSFXgD9VUXppZSHYuljZkqp/VE1VJbvUro76lAoGANLfgVYpKti6GxtJHQ82z\nSO4mMqIQ1GMRNNptrqdrQTiY/Laf/r6WVFetHwN8JSmBJhzo0PhOTX/jigeInPYr\nSdbTG80RVQZCGmN7UWrvn7UqDKNGZSC1M4BgwoYpNWM/yKW8g0WCnMtqv5l1V+pi\nrpdoS1TtcmgRVdGpvHPK1fo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-oel3q@all-is-well-pharmacy-3dd14.iam.gserviceaccount.com",
+  "client_id": "117483959244475146536",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-oel3q%40all-is-well-pharmacy-3dd14.iam.gserviceaccount.com"
+}
