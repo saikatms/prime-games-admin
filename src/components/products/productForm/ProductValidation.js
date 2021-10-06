@@ -4,7 +4,7 @@ const ProductValidation = Yup.object().shape({
   gameName: Yup.string().required("Required field"),
   softwareUsed: Yup.string().required("Required field"),
   plugins: Yup.string().required("Required field"),
-
+  description: Yup.string().required("Required field"),
   licensePrice: Yup.string()
     .matches(/^\d+(?:\.{0,1}\d{0,2})$/, {
       message: "Enter a valid amount",

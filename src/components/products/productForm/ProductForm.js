@@ -252,6 +252,25 @@ const ProductForm = (props) => {
               <ErrorMessage name="downloads" component={CustomErrorMsg} />
             </FormGroup>
           </Col>
+          <Col sm={6} md={4}>
+            <FormGroup>
+              <Label for="description">
+                Game Description<span className="required-asterisk">*</span>
+              </Label>
+              <Input
+                type="text"
+                name="description"
+                id="description"
+                invalid={errors.description && touched.description}
+                placeholder="Enter Game Description"
+                title="Description"
+                value={values.description}
+                onBlur={handleBlur}
+                onChange={handleChange}
+              />
+              <ErrorMessage name="description" component={CustomErrorMsg} />
+            </FormGroup>
+          </Col>
 
           {values.category !== "" ? (
             <Col sm={6} md={4}>

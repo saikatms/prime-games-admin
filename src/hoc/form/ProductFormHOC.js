@@ -13,6 +13,8 @@ const mapPropsToValues = (props) => {
     exclusiveLicensePrice: product.exclusiveLicensePrice || "",
     downloads: product.downloads || "",
     softwareUsed: product.softwareUsed || "",
+    description: product.description || "",
+
     plugins: product.plugins || "",
     category: product.category || "",
     canChange: product.canChange || "",
